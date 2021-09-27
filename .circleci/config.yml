@@ -116,7 +116,7 @@ jobs:
             - C:\Users\circleci\AppData\Local\Yarn\Cache\v4
 
 workflows:
-  version: 2.1
+  version: 2
   cirunner:
     jobs:
       - setup:
